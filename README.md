@@ -13,6 +13,6 @@ https://michaeldameron.github.io/Homework-4/
 Here are some screenshots of the final product 
 
 <img width="1307" alt="Screen Shot 2021-03-01 at 1 31 40 PM" src="https://user-images.githubusercontent.com/77595128/109547844-e249bb80-7a99-11eb-8614-98bb5c5e8476.png">
-<img width="1307" alt="Screen Shot 2021-03-01 at 1 30 59 PM" src="https://user-images.githubusercontent.com/77595128/109547861-e8d83300-7a99-11eb-852f-f7d095b36552.png">
+<img width="1307" alt="Screen Shot 2021-03-01 at 1 31 34 PM" src="https://user-images.githubusercontent.com/77595128/109547963-09a08880-7a9a-11eb-8e2c-90d2021eb8d9.png">
 <img width="1307" alt="Screen Shot 2021-03-01 at 1 30 38 PM" src="https://user-images.githubusercontent.com/77595128/109547884-efff4100-7a99-11eb-868c-254974942d21.png">
 <img width="1280" alt="Screen Shot 2021-03-01 at 1 30 23 PM" src="https://user-images.githubusercontent.com/77595128/109547891-f4c3f500-7a99-11eb-9119-cc999276ad33.png">
